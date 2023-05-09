@@ -9,17 +9,17 @@ The package allows users to estimate the Network SFA model introduced by Tran et
 
 To install the command, enter the following commands into Stata. (the first is unnecessary if you already have the github command installed): 
 
-`net install github, from("https://haghish.github.io/github/")
+```net install github, from("https://haghish.github.io/github/")
 
-github install trangtvh/networkSFA`
+github install trangtvh/networkSFA```
 
 **Getting started**
 
 For help with the command's syntax and options, enter (after installation):
 
-`help networkSFA
+```help networkSFA
 
-help networkSFA_postestimation`
+help networkSFA_postestimation```
 
 **Linked publication**
 
