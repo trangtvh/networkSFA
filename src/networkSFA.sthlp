@@ -28,4 +28,17 @@
 {title:Description}
 
 {pstd}
-{cmd:networkSFA} estimates of the network two-stage SFA model where the first production stage produces intermediate outputs which are used to produce final outputs in the second stage. There is no other inputs (rather than intermediate outputs) involved in the second stage. The command allows for the models with different data aggregations specified in our paper. 
+{cmd:networkSFA} estimates of the network two-stage SFA model where the first production stage produces intermediate outputs which are used to produce final outputs in the second stage. There is no other inputs (rather than intermediate outputs) involved in the second stage. The command allows for the models with different data aggregations specified in our paper. The model is estimated by a multi-step procedure. In the first step, SUR or 3SLS is used to estimate slope parameters. The second step uses the method of moments (MM) to estimate distributional parameters and correct intercepts. The last step is to gauge efficiency. 
+
+{title:Authors}
+
+{pstd}Vo Huyen Trang Tran{p_end}
+{pstd}Institute for Transport Studies, University of Leeds{p_end}
+{pstd}Leeds, UK{p_end}
+{pstd}v.h.tran@leeds.ac.uk{p_end}
+
+{title:Also see}
+
+{psee}
+{space 2}Help:  {help network_postestimation}
+{p_end}
