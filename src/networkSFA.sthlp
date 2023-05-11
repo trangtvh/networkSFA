@@ -23,3 +23,9 @@
 ({depvarN} {varlistN})
 [{list of IOs if case is IO}]
 [{if}]
+
+
+{title:Description}
+
+{pstd}
+{cmd:networkSFA} estimates of the network two-stage SFA model where the first production stage produces intermediate outputs which are used to produce final outputs in the second stage. There is no other inputs (rather than intermediate outputs) involved in the second stage. The command allows for the models with different data aggregations specified in our paper. 
