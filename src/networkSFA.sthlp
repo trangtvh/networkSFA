@@ -24,6 +24,9 @@
 [{list of IOs if case is IO}]
 [{if}]
 
+case specifies to which case (or optimal behaviours) you are referring. You have to specify one of three cases FO, IO, and I. FO means final outputs are exogenous. IO means intermediate outputs are exogenous. I means inputs are exogenous.
+
+If case is I, then you will need to list intermediate outputs after the equation specification in the same order that they appear in the second-stage equations.
 
 {title:Description}
 
