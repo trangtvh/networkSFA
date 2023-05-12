@@ -17,12 +17,12 @@
 {p 8 17 2}
 {cmdab:networkSFA}
 {case}
-({help varname:depvar1} {help varlist: varlist1})
+({help varname:depvar1} {help varlist:varlist1})
 ({help varname:depvar2} {help varlist:varlist2})
 {...}
 ({help varname:depvarN} {help varlist:varlistN})
-[{list of IOs if case is IO}]
-[{if}]
+[list of IOs if case is IO]
+[{help if:if}]
 
 {case} specifies to which case (or optimal behaviours) you are referring. You have to specify one of three cases FO, IO, and I. FO means final outputs are exogenous. IO means intermediate outputs are exogenous. I means inputs are exogenous.
 
