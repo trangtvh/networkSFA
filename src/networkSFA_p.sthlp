@@ -26,7 +26,7 @@ efficiency scores{p_end}
 {marker predict}{...}
 {title:Syntax for predict}
 
-{p 8 16 2}{cmd:predict} {newvar} {help if: if} [{cmd:,} {it:statistic} {eq(eqno)}]
+{p 8 16 2}{cmd:predict} {newvar} {help if: if} [{cmd:,} {it:statistic} eq(eqno)]
 
 {synoptset 15 tabbed}{...}
 {synopthdr :statistic}
