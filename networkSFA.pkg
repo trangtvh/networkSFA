@@ -5,4 +5,4 @@ d Distribution-Date:   20230520
 f src/networkSFA.ado
 f src/networkSFA_p.ado
 f src/networkSFA.sthlp
-f src/networkSFA_p.sthlp
+f src/networkSFA_postestimation.sthlp
