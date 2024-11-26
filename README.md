@@ -2,7 +2,7 @@
 
 **Stata package for multi-stage stochastic frontier analysis**
 
-The package allows users to estimate the Network SFA model introduced by Tran et al. (2023). After the model estimation, the postestimation command is to predict efficiency, both stage and overall efficiency. 
+The package allows users to estimate the Network SFA model introduced by Tran et al. (2024). After the model estimation, the postestimation command is to predict efficiency, both stage and overall efficiency. 
 
 
 **Installtion**
