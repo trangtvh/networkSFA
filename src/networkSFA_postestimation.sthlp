@@ -5,9 +5,9 @@
 
 {title:Title}
 
-
 {p2col :{hi:networkSFA postestimation} {hline 2}}Postestimation tools for networkSFA{p_end}
 {p2colreset}{...}
+
 
 {title:Description}
 
