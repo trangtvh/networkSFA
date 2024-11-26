@@ -1,5 +1,5 @@
 {smcl}
-{cmd:help networkSFA postestimation} {...}
+{cmd:help networkSFA_postestimation} {...}
 {right:also see:  {help networkSFA}}
 {hline}
 
