@@ -17,7 +17,7 @@
 {p 8 17 2}
 {cmdab:networkSFA}
 case
-({help varname:depvar_1 } {help varlist:varlist1})
+({depvar1 } {varlist1})
 ({help varname:depvar2} {help varlist:varlist2})
 {...}
 ({help varname:depvarN} {help varlist:varlistN})
